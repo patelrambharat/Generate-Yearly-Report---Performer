@@ -1,0 +1,6 @@
+{
+  "Name": "REF_GYR_Performer",
+  "ProjectType": "Process",
+  "Description": "REF_GYR_Performer",
+  "MainFile": "Main.xaml"
+}
